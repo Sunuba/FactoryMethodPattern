@@ -5,7 +5,7 @@
 In this demo, I only showed how to generate page objects, but I did not show 
 how to generate content of each pages, for this, we need to use another abstract
 method. Then, we will also be able to set content (title and body in my case)
-dynamically.
+dynamically. That is why I always say plan it well before starting.
 
 In this demo, I tried to show you how to create two types of websites with factory
 method. As factory method is not used in refactoring code, so you need to plan it
