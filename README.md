@@ -1,7 +1,6 @@
 # Factory Method Pattern in PHP
 
-##### Before using Factory Method Pattern please ensure that you have planned it
-well ahead.
+##### Before using Factory Method Pattern please ensure that you have planned it well ahead.
 
 In this demo, I only showed how to generate page objects, but I did not show 
 how to generate content of each pages, for this, we need to use another abstract
