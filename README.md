@@ -1,4 +1,12 @@
-#Factory Method Pattern in PHP
+# Factory Method Pattern in PHP
+
+##### Before using Factory Method Pattern please ensure that you have planned it
+well ahead.
+
+In this demo, I only showed how to generate page objects, but I did not show 
+how to generate content of each pages, for this, we need to use another abstract
+method. Then, we will also be able to set content (title and body in my case)
+dynamically.
 
 In this demo, I tried to show you how to create two types of websites with factory
 method. As factory method is not used in refactoring code, so you need to plan it
@@ -64,4 +72,4 @@ of demo. And you will get the following result:
     
     )
    
-As you see we geg SearchPage Object in corporate website.
+As you see we get SearchPage Object in corporate website.
